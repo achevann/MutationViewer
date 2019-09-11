@@ -13,3 +13,4 @@
 
 ### When highlighting amino acid locations, the amino acid location as well as the number of mammals found with an amino acid variation at that location is displayed in the center of the visualization.
 
+### Adapted from https://observablehq.com/@confessin/d3-zoomable-sunburst creaded with D3 Visualization Library.
