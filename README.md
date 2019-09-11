@@ -1,4 +1,4 @@
-# Variation Viewer
+# FUS Protein Mammal Variation Viewer
 
 ### To View Spatial Variation of FUS protein follow this link:
 ##### https://achevann.github.io/MutationViewer/viewer.html
