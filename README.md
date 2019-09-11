@@ -9,7 +9,7 @@
 
 ### **Layer ONE**: Divides the primary structure of the fus protein into each amino acid location by regions within the protein.
 ### **Layer TWO**: The Amino acid single letter abbreviation and location within the primary structure.
-### **Layer THREE**: ***(click on either layer one or layer two to view layer 3)*** The Amino acid substitutions found from clinical ALS data.
+### **Layer THREE**: ***(click on either layer one or layer two to view layer three)*** The Amino acid substitutions found from clinical ALS data.
 
 ### When highlighting amino acid locations, the amino acid location as well as the number of mammals found with an amino acid variation at that location is displayed in the center of the visualization.
 
